@@ -1,0 +1,11 @@
+python-telegram-bot==22.2
+google-cloud-translate
+google-cloud-vision
+PyMuPDF
+python-docx
+openpyxl
+python-pptx
+Pillow
+python-dotenv
+aiofiles
+httpx
